@@ -445,6 +445,7 @@ r: Videos,https://www.reddit.com/r/videos/search?q={query}&restrict_sr=on&sort=r
 Bitcoin wiki,https://en.bitcoin.it/w/index.php?search={query}&title=Special%3ASearch&go=Go
 Reddit (subreddits),https://www.reddit.com/subreddits/search?q={query}
 YouTube,https://www.youtube.com/results?search_query={query}
+Prime,https://www.primevideo.com/search?q={query}
 Google books,https://www.google.com/search?tbm=bks&q={query}
 Patents,http://patents.com/search/?top_keyword={query}
 Google drive,https://drive.google.com/drive/search?q={query}
